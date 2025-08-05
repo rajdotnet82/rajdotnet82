@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a **seasoned software architect** with over **21 years of experience** building scalable, secure, and cloud-native applications. I specialize in designing modern enterprise systems that blend **microservices**, **event-driven architectures**, and **AI-driven insights** using technologies like .NET 9, Go, and Python.
+I’m a **seasoned software architect** with over **22+ years of experience** building scalable, secure, and cloud-native applications. I specialize in designing modern enterprise systems that blend **microservices**, **event-driven architectures**, and **AI-driven insights** using technologies like .NET 9, Go, and Python.
 
 > While most of my work is in **private repositories**, my GitHub activity demonstrates consistent engagement and technological growth across diverse domains.
 
