@@ -70,19 +70,19 @@ I’m a **seasoned software architect** with over **22+ years of experience** bu
 
 ### ​ Professional Certifications
 
-- **AWS Certified Solutions Architect – Associate** – [View Badge or Verify](YOUR_AWS_BADGE_OR_VERIFICATION_LINK)  
-- **Microsoft Certified Technology Specialist (MCTS)** – *Silverlight* (Trans ID: 971424, Access Code: 12345678) – [Verify via Microsoft Learn Transcript](YOUR_MICROSOFT_TRANSCRIPT_LINK)  
-- **Microsoft Certified Technology Specialist (MCTS)** – *Web Applications* – [Verify via Microsoft Learn Transcript](YOUR_MICROSOFT_TRANSCRIPT_LINK)  
-- **Microsoft Certified Application Developer (MCAD)** – *in .NET* (Trans ID: 669916, Access Code: 12345678) – [Verify via Microsoft Learn Transcript](YOUR_MICROSOFT_TRANSCRIPT_LINK)  
-- **Microsoft Certified: Azure Fundamentals** – [Verify via Microsoft Learn Transcript](YOUR_MICROSOFT_TRANSCRIPT_LINK)  
+- **AWS Certified Solutions Architect – Associate** – [View](https://www.credly.com/badges/1b08b282-61ff-4831-be73-2ba30df26a6f?source=linked_in_profile)  
+- **Microsoft Certified Technology Specialist (MCTS)** – *Silverlight* (Trans ID: 971424, Access Code: 12345678)
+- **Microsoft Certified Technology Specialist (MCTS)** – *Web Applications* 
+- **Microsoft Certified Application Developer (MCAD) in .NET [Trans ID: 669916 Access Code: 12345678] 
+- **Microsoft Certified: Azure Fundamentals** – [Verify](https://learn.microsoft.com/en-us/users/rajendranthiagarajan-1194/credentials/5679b81b9917661a)  
 
 ###  Additional Courses & Training
 
-- **Identity & Access Management** – Learn LDAP, SAML, OAuth, OpenID [View](LINK), OKTA/Auth0 [View](LINK)  
-- **Go: The Complete Developer's Guide (Golang)** – [View](LINK)  
-- **Cypress: Modern Automation Testing from Scratch + Frameworks** – [View](LINK)  
-- **Event Driven Architecture: The Complete Guide** – [View](LINK)  
-- **Python Programming** – [View]([(https://www.udemy.com/certificate/UC-b597e8c0-4cdb-4e87-ba68-ceafbe29a8fd/))  
+- **Identity & Access Management** – Learn LDAP, SAML, OAuth, OpenID [View](https://www.udemy.com/certificate/UC-f5cd3ea8-ec6c-431c-9a4b-717ef08958ec/), OKTA/Auth0 [View](https://www.udemy.com/certificate/UC-391d769f-ac3d-4116-b128-a0c014ed9740/)  
+- **Go: The Complete Developer's Guide (Golang)** – [View](https://www.udemy.com/certificate/UC-a2fbf5db-bea5-4551-b2ec-b984c5a3b6fe/)
+- **Cypress: Modern Automation Testing from Scratch + Frameworks** – [View](https://www.udemy.com/certificate/UC-35f8a702-609b-48fc-9c64-5b17bc38fc8a/)
+- **Event Driven Architecture: The Complete Guide** – [View](https://www.udemy.com/certificate/UC-91994524-503f-4e9c-85fe-255413e86ece/)
+- **Python Programming** – [View](https://www.udemy.com/certificate/UC-b597e8c0-4cdb-4e87-ba68-ceafbe29a8fd/)
 - **Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)** – [View](https://www.udemy.com/certificate/UC-c613a5dc-5e53-4f79-85ab-1def3691e1d7/)  
 ---
 
