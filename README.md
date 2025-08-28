@@ -83,7 +83,7 @@ I’m a **seasoned software architect** with over **22+ years of experience** bu
 - **Cypress: Modern Automation Testing from Scratch + Frameworks** – [View](LINK)  
 - **Event Driven Architecture: The Complete Guide** – [View](LINK)  
 - **Python Programming** – [View]([(https://www.udemy.com/certificate/UC-b597e8c0-4cdb-4e87-ba68-ceafbe29a8fd/))  
-- **Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)** – [View]([(https://www.udemy.com/certificate/UC-c613a5dc-5e53-4f79-85ab-1def3691e1d7/))  
+- **Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)** – [View](https://www.udemy.com/certificate/UC-c613a5dc-5e53-4f79-85ab-1def3691e1d7/)  
 ---
 
 ## 📫 Let's Connect
