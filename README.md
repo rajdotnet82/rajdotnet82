@@ -72,11 +72,11 @@ I’m a **seasoned software architect** with over **22+ years of experience** bu
 
 - **AWS Certified Solutions Architect – Associate** – [View](https://www.credly.com/badges/1b08b282-61ff-4831-be73-2ba30df26a6f?source=linked_in_profile)  
 - **Microsoft Certified Technology Specialist (MCTS)** – *Silverlight* (Trans ID: 971424, Access Code: 12345678)
-- **Microsoft Certified Technology Specialist (MCTS)** – *Web Applications* 
+- **Microsoft Certified Technology Specialist (MCTS)** – *Web Applications
 - **Microsoft Certified Application Developer (MCAD) in .NET [Trans ID: 669916 Access Code: 12345678] 
 - **Microsoft Certified: Azure Fundamentals** – [Verify](https://learn.microsoft.com/en-us/users/rajendranthiagarajan-1194/credentials/5679b81b9917661a)  
 - **Microsoft Certified: Azure AI Engineer Associate** – [Verify](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-- 
+  
 ###  Additional Courses & Training
 
 - **Identity & Access Management** – Learn LDAP, SAML, OAuth, OpenID [View](https://www.udemy.com/certificate/UC-f5cd3ea8-ec6c-431c-9a4b-717ef08958ec/), OKTA/Auth0 [View](https://www.udemy.com/certificate/UC-391d769f-ac3d-4116-b128-a0c014ed9740/)  
