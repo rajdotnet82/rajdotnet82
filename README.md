@@ -75,7 +75,7 @@ I’m a **seasoned software architect** with over **22+ years of experience** bu
 - **Microsoft Certified Technology Specialist (MCTS)** – *Web Applications
 - **Microsoft Certified Application Developer (MCAD) in .NET** [Trans ID: 669916 Access Code: 12345678] 
 - **Microsoft Certified: Azure Fundamentals** – [Verify](https://learn.microsoft.com/en-us/users/rajendranthiagarajan-1194/credentials/5679b81b9917661a)  
-- **Microsoft Certified: Azure AI Engineer Associate** – [Verify](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+- **Microsoft Certified: Azure AI Engineer Associate** – [Verify](https://learn.microsoft.com/en-us/users/rajendranthiagarajan-1194/credentials/certification/azure-ai-engineer?tab=credentials-tab)
   
 ###  Additional Courses & Training
 
