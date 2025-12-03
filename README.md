@@ -55,12 +55,6 @@ I’m a **seasoned software architect** with over **22+ years of experience** bu
 
 ---
 
-## 🏆 Certifications
-
-- **AWS Certified Solutions Architect – Associate**
-- **Microsoft Certified Technology Specialist (MCTS)** – Web Applications
-- **Microsoft Certified Application Developer (MCAD)**
-- **Microsoft Certified: Azure Fundamentals**
 ## ​ Education
 
 - **Master of Science (MS) in Software Engineering** – Annamalai University, India  
@@ -68,7 +62,7 @@ I’m a **seasoned software architect** with over **22+ years of experience** bu
 - **Bachelor of Computer Applications (BCA)** – SCSVMV Deemed University, India  
 - **Systems Management (3-year GNIIT Program)** – NIIT Ltd, India  
 
-### ​ Professional Certifications
+### ​ 🏆 Professional Certifications
 
 - **AWS Certified Solutions Architect – Associate** – [View](https://www.credly.com/badges/1b08b282-61ff-4831-be73-2ba30df26a6f?source=linked_in_profile)  
 - **Microsoft Certified Technology Specialist (MCTS)** – *Silverlight* (Trans ID: 971424, Access Code: 12345678)
